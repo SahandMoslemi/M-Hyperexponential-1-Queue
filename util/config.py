@@ -1,0 +1,1 @@
+LARGE_NUMBER = float('inf')
